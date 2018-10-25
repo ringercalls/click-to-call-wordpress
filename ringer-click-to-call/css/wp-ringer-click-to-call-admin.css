@@ -1,0 +1,15 @@
+div.wp-ringer-click-2-call-wrapper {
+    position: fixed;
+    width: 100%;
+    height: 93%;
+    display: block;
+    margin-left: -20px;
+    background-color: #EBEEF2;
+}
+
+iframe.wp-ringer-click-2-call-container {
+    width: 90%;
+    height: 100%;
+    border: none;
+    background-color: #EBEEF2;
+}
