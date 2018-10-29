@@ -1,5 +1,5 @@
 # Ringer Click to Call
-Website: [https://home.ringer.biz](https://home.ringer.biz)
+Website: [https://home.ringer.biz/click-to-call](https://home.ringer.biz/click-to-call)
 
 (OFFICIAL Ringer Click to Call plugin) Changing customer communication, allows customers to call you from within your website in just a click. Webcalling is the future of customer communication.
 
